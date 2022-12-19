@@ -15,12 +15,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Eric\GitHub\uni\databasteknik\FlagGame\FlagGame
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Eric/GitHub/uni/databasteknik/FlagGame/FlagGame/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[D:/Eric/GitHub/uni/databasteknik/FlagGame/FlagGame/Views/Flag/Play.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxhZ1xQbGF5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Eric/GitHub/uni/databasteknik/FlagGame/FlagGame/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[D:/Eric/GitHub/uni/databasteknik/FlagGame/FlagGame/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Eric/GitHub/uni/databasteknik/FlagGame/FlagGame/Views/Shared/Error.cshtml]
