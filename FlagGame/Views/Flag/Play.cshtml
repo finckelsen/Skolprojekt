@@ -1,14 +1,16 @@
 ﻿<h1>Play</h1>
 
-<div>
-    <img src=@ViewBag.Country alt="argentina" />
+<div class="container-centered">
+    <img src=@ViewBag.FlagImage alt="" />
     <p></p>
     <p>Country: @ViewBag.CountryName</p>
     <p>List size: @ViewBag.ListSize</p>
 
     <form asp-action="Play">
         <div class="form-group">
-            <input type="submit" style="margin-top: 1rem;" value="Randomize" class="btn btn-primary" />
+            <input type="submit" style="margin: 1rem;" value="@ViewBag.CorrectFlagName" class="btn btn-primary" />
+            <input type="submit" style="margin: 1rem;" value="@ViewBag.RandomFlagName1" class="btn btn-primary" />
+            <input type="submit" style="margin: 1rem;" value="@ViewBag.RandomFlagName2" class="btn btn-primary" />
         </div>
     </form>
 </div>

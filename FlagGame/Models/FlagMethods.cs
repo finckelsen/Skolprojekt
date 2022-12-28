@@ -64,5 +64,31 @@ namespace FlagGame.Models
                 dbConnection.Close();
             }
         }
+
+        public string formatFlagName(string name)
+        {
+            string formattedName = "";
+            if (name.Contains("_"))
+            {
+                string[] split = name.Split("_");
+                if (split.Length > 1)
+                {
+                    for (int i = 0; i < split.Length; i++)
+                    {
+                        split[i] = char.ToUpper(split[i][0]) + split[i].Substring(1);
+                        if (split[i].Equals("And"))
+                        {
+                            split[i] = "&";
+                        }
+                        formattedName = formattedName + split[i] + " ";
+                    }
+                }
+            }
+            else
+            {
+                formattedName = char.ToUpper(name[0]) + name.Substring(1);
+            }
+            return formattedName;
+        }
     }
 }

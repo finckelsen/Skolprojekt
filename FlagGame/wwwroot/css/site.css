@@ -14,5 +14,11 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-color: #E8E9EB;
+}
+
+.container-centered {
+    display: grid;
+    place-items: center;
 }
