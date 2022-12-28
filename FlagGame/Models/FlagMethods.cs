@@ -90,5 +90,19 @@ namespace FlagGame.Models
             }
             return formattedName;
         }
+
+        public List<String> shuffleStringList(List<String> list)
+        {
+            Random rand = new Random();
+
+            for (int i = 0; i < list.Count; i++)
+            {
+                int j = rand.Next(i, list.Count);
+                string temp = list[i];
+                list[i] = list[j];
+                list[j] = temp;
+            }
+            return list;
+        }
     }
 }
