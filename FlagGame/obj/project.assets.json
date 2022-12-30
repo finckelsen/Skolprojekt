@@ -470,26 +470,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\erico\\.nuget\\packages\\": {}
+    "/Users/casperfinckelsen/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Eric\\GitHub\\uni\\databasteknik\\FlagGame\\FlagGame\\FlagGame.csproj",
+      "projectUniqueName": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/FlagGame.csproj",
       "projectName": "FlagGame",
-      "projectPath": "D:\\Eric\\GitHub\\uni\\databasteknik\\FlagGame\\FlagGame\\FlagGame.csproj",
-      "packagesPath": "C:\\Users\\erico\\.nuget\\packages\\",
-      "outputPath": "D:\\Eric\\GitHub\\uni\\databasteknik\\FlagGame\\FlagGame\\obj\\",
+      "projectPath": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/FlagGame.csproj",
+      "packagesPath": "/Users/casperfinckelsen/.nuget/packages/",
+      "outputPath": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\erico\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/casperfinckelsen/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -532,7 +530,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

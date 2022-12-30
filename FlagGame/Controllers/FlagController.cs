@@ -1,5 +1,6 @@
 ﻿using FlagGame.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace FlagGame.Controllers
 {
@@ -9,22 +10,41 @@ namespace FlagGame.Controllers
         {
             return View();
         }
-
-        public IActionResult Play(int flagDifficulty)
+        public IActionResult prePlay()
         {
+
+            return View();
+        }
+
+        public IActionResult Play()
+        {
+
+            int flagDifficulty = 2;
+            String tempDiff = HttpContext.Request.Cookies["difficulty"];
+            String currentScore = HttpContext.Request.Cookies["currentScore"];
+            Console.WriteLine(currentScore);
+            try
+            {
+                flagDifficulty = Int32.Parse(tempDiff);
+           
+            }
+            catch
+            {
+
+            }
             List<FlagDetails> flagList = new List<FlagDetails>();
             List<FlagDetails> fullFlagList = new List<FlagDetails>();
             FlagMethods flagMethods = new FlagMethods();
             string error = "";
             Random random = new Random();
             int currentScore = 0;
-            int currentRound = 1;
+            
             ViewBag.CurrentScore = currentScore;
             ViewBag.CurrentRound = currentRound;
             
 
-            flagList = flagMethods.SelectFlags(1, out error);
-            fullFlagList = flagMethods.SelectFlags(1, out error);
+            flagList = flagMethods.SelectFlags(flagDifficulty, out error);
+            fullFlagList = flagMethods.SelectFlags(flagDifficulty, out error);
             int randomFlag = random.Next(flagList.Count);
             int listCount = flagList.Count;
             ViewBag.ListCount = listCount;
@@ -46,6 +66,29 @@ namespace FlagGame.Controllers
 
             return View();
         }
+
+        public IActionResult preDiff(int flagDifficulty)
+        {
+            int temp = 0;
+            if (Request.Cookies["difficulty"] == null && Request.Cookies["currentScore"] == null)
+            {
+                HttpContext.Response.Cookies.Append("difficulty", flagDifficulty.ToString());
+                HttpContext.Response.Cookies.Append("currentScore", "0");
+
+            }
+            else
+            {
+                Response.Cookies.Delete("difficulty");
+                Response.Cookies.Delete("currentScore");
+                HttpContext.Response.Cookies.Append("difficulty", flagDifficulty.ToString());
+                HttpContext.Response.Cookies.Append("currentScore", "0");
+
+            }
+ 
+            return View();
+        }
+
+     
     }
 
 }

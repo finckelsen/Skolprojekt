@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{AE5E1AA6-E32A-4A58-BD15-E1D756F9BDD0}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Flag/Play.cshtml">
+    <Files>
+      <File FileName="Models/FlagDetails.cs" Line="5" Column="16" />
+      <File FileName="Models/UserDetails.cs" Line="1" Column="1" />
+      <File FileName="Models/UserMethods.cs" Line="1" Column="1" />
+      <File FileName="Models/FlagMethods.cs" Line="50" Column="37" />
+      <File FileName="Controllers/FlagController.cs" Line="25" Column="43" />
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Views/Home/Index.cshtml" />
+      <File FileName="Views/Flag/Play.cshtml" Line="20" Column="3" />
+      <File FileName="Views/_ViewImports.cshtml" />
+      <File FileName="Views/_ViewStart.cshtml" />
+      <File FileName="Program.cs" />
+      <File FileName="appsettings.json" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="26" Column="114" />
+      <File FileName="Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="Views/Shared/Error.cshtml" />
+      <File FileName="Views/Flag/prePlay.cshtml" Line="11" Column="3" />
+      <File FileName="Views/Flag/prePlay (copy).cshtml" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlagGame" expanded="True">
+            <Node name="FlagGame" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Flag" expanded="True">
+                  <Node name="Play.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FlagGame PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

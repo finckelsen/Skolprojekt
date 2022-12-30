@@ -1,21 +1,13 @@
 ﻿<h1>Play</h1>
 
-<div class="container-centered">
-    <h2>Round @ViewBag.CurrentRound / 20</h2>
-    <h2>Current score: @ViewBag.CurrentScore</h2>
-    <p></p>
-    <img src=@ViewBag.FlagImage alt="" />
-    <p></p>
-
-    <form asp-action="Play">
-        <div class="form-group">
-            <input type="submit" style="margin: 1rem;" value="@ViewBag.FlagName1" class="btn btn-primary" />
-            <input type="submit" style="margin: 1rem;" value="@ViewBag.FlagName2" class="btn btn-primary" />
-            <input type="submit" style="margin: 1rem;" value="@ViewBag.FlagName3" class="btn btn-primary" />
-        </div>
-    </form>
-
-    <p>List count: @ViewBag.ListCount</p>
-</div>
+<form asp-action="PreDiff">
+    <div class="form-group">
+        <input type="submit" style="margin: 1rem;" value="1" class="btn btn-primary" name="flagDifficulty" />
+        <input type="submit" style="margin: 1rem;" value="2" class="btn btn-primary" name="flagDifficulty" />
+        <input type="submit" style="margin: 1rem;" value="3" class="btn btn-primary" name="flagDifficulty" />
+        <input type="submit" style="margin: 1rem;" value="4" class="btn btn-primary" name="flagDifficulty" />
+    </div>
+</form>
 @{
+
 }

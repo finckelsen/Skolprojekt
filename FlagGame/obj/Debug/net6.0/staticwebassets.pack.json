@@ -1,0 +1,1101 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/obj/Debug/net6.0/scopedcss/projectbundle/FlagGame.bundle.scp.css",
+      "PackagePath": "staticwebassets/FlagGame.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/afghanistan.png",
+      "PackagePath": "staticwebassets/lib/images/flags/afghanistan.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/albania.png",
+      "PackagePath": "staticwebassets/lib/images/flags/albania.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/algeria.png",
+      "PackagePath": "staticwebassets/lib/images/flags/algeria.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/american_samoa.png",
+      "PackagePath": "staticwebassets/lib/images/flags/american_samoa.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/andorra.png",
+      "PackagePath": "staticwebassets/lib/images/flags/andorra.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/angola.png",
+      "PackagePath": "staticwebassets/lib/images/flags/angola.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/anguilla.png",
+      "PackagePath": "staticwebassets/lib/images/flags/anguilla.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/antartica.png",
+      "PackagePath": "staticwebassets/lib/images/flags/antartica.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/antigua_and_barbuda.png",
+      "PackagePath": "staticwebassets/lib/images/flags/antigua_and_barbuda.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/argentina.png",
+      "PackagePath": "staticwebassets/lib/images/flags/argentina.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/armenia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/armenia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/aruba.png",
+      "PackagePath": "staticwebassets/lib/images/flags/aruba.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/australia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/australia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/austria.png",
+      "PackagePath": "staticwebassets/lib/images/flags/austria.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/azerbaijan.png",
+      "PackagePath": "staticwebassets/lib/images/flags/azerbaijan.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/bahamas.png",
+      "PackagePath": "staticwebassets/lib/images/flags/bahamas.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/bahrain.png",
+      "PackagePath": "staticwebassets/lib/images/flags/bahrain.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/bangladesh.png",
+      "PackagePath": "staticwebassets/lib/images/flags/bangladesh.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/barbados.png",
+      "PackagePath": "staticwebassets/lib/images/flags/barbados.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/belarus.png",
+      "PackagePath": "staticwebassets/lib/images/flags/belarus.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/belgium.png",
+      "PackagePath": "staticwebassets/lib/images/flags/belgium.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/belize.png",
+      "PackagePath": "staticwebassets/lib/images/flags/belize.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/benin.png",
+      "PackagePath": "staticwebassets/lib/images/flags/benin.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/bermuda.png",
+      "PackagePath": "staticwebassets/lib/images/flags/bermuda.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/bhutan.png",
+      "PackagePath": "staticwebassets/lib/images/flags/bhutan.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/bolivia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/bolivia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/bosnia_and_herzegovina.png",
+      "PackagePath": "staticwebassets/lib/images/flags/bosnia_and_herzegovina.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/botswana.png",
+      "PackagePath": "staticwebassets/lib/images/flags/botswana.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/brazil.png",
+      "PackagePath": "staticwebassets/lib/images/flags/brazil.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/brunei.png",
+      "PackagePath": "staticwebassets/lib/images/flags/brunei.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/bulgaria.png",
+      "PackagePath": "staticwebassets/lib/images/flags/bulgaria.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/burkina_faso.png",
+      "PackagePath": "staticwebassets/lib/images/flags/burkina_faso.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/burundi.png",
+      "PackagePath": "staticwebassets/lib/images/flags/burundi.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/cambodia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/cambodia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/cameroon.png",
+      "PackagePath": "staticwebassets/lib/images/flags/cameroon.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/canada.png",
+      "PackagePath": "staticwebassets/lib/images/flags/canada.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/cape_verde.png",
+      "PackagePath": "staticwebassets/lib/images/flags/cape_verde.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/central_african_republic.png",
+      "PackagePath": "staticwebassets/lib/images/flags/central_african_republic.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/chad.png",
+      "PackagePath": "staticwebassets/lib/images/flags/chad.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/chile.png",
+      "PackagePath": "staticwebassets/lib/images/flags/chile.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/china.png",
+      "PackagePath": "staticwebassets/lib/images/flags/china.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/christmas_island.png",
+      "PackagePath": "staticwebassets/lib/images/flags/christmas_island.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/cocos_islands.png",
+      "PackagePath": "staticwebassets/lib/images/flags/cocos_islands.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/colombia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/colombia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/comoros.png",
+      "PackagePath": "staticwebassets/lib/images/flags/comoros.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/costa_rica.png",
+      "PackagePath": "staticwebassets/lib/images/flags/costa_rica.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/cuba.png",
+      "PackagePath": "staticwebassets/lib/images/flags/cuba.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/curacao.png",
+      "PackagePath": "staticwebassets/lib/images/flags/curacao.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/cyprus.png",
+      "PackagePath": "staticwebassets/lib/images/flags/cyprus.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/czech_republic.png",
+      "PackagePath": "staticwebassets/lib/images/flags/czech_republic.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/denmark.png",
+      "PackagePath": "staticwebassets/lib/images/flags/denmark.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/djibouti.png",
+      "PackagePath": "staticwebassets/lib/images/flags/djibouti.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/dominica.png",
+      "PackagePath": "staticwebassets/lib/images/flags/dominica.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/dominican_republic.png",
+      "PackagePath": "staticwebassets/lib/images/flags/dominican_republic.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/dr_congo.png",
+      "PackagePath": "staticwebassets/lib/images/flags/dr_congo.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/ecuador.png",
+      "PackagePath": "staticwebassets/lib/images/flags/ecuador.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/egypt.png",
+      "PackagePath": "staticwebassets/lib/images/flags/egypt.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/england.png",
+      "PackagePath": "staticwebassets/lib/images/flags/england.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/eritrea.png",
+      "PackagePath": "staticwebassets/lib/images/flags/eritrea.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/estonia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/estonia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/ethiopia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/ethiopia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/falkland_islands.png",
+      "PackagePath": "staticwebassets/lib/images/flags/falkland_islands.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/faroe_islands.png",
+      "PackagePath": "staticwebassets/lib/images/flags/faroe_islands.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/fiji.png",
+      "PackagePath": "staticwebassets/lib/images/flags/fiji.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/finland.png",
+      "PackagePath": "staticwebassets/lib/images/flags/finland.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/france.png",
+      "PackagePath": "staticwebassets/lib/images/flags/france.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/gabon.png",
+      "PackagePath": "staticwebassets/lib/images/flags/gabon.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/gambia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/gambia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/georgia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/georgia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/germany.png",
+      "PackagePath": "staticwebassets/lib/images/flags/germany.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/ghana.png",
+      "PackagePath": "staticwebassets/lib/images/flags/ghana.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/gibraltar.png",
+      "PackagePath": "staticwebassets/lib/images/flags/gibraltar.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/great_britain.png",
+      "PackagePath": "staticwebassets/lib/images/flags/great_britain.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/greece.png",
+      "PackagePath": "staticwebassets/lib/images/flags/greece.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/greenland.png",
+      "PackagePath": "staticwebassets/lib/images/flags/greenland.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/guam.png",
+      "PackagePath": "staticwebassets/lib/images/flags/guam.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/guatemala.png",
+      "PackagePath": "staticwebassets/lib/images/flags/guatemala.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/guinea.png",
+      "PackagePath": "staticwebassets/lib/images/flags/guinea.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/guinea_bissau.png",
+      "PackagePath": "staticwebassets/lib/images/flags/guinea_bissau.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/guyana.png",
+      "PackagePath": "staticwebassets/lib/images/flags/guyana.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/haiti.png",
+      "PackagePath": "staticwebassets/lib/images/flags/haiti.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/honduras.png",
+      "PackagePath": "staticwebassets/lib/images/flags/honduras.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/hong_kong.png",
+      "PackagePath": "staticwebassets/lib/images/flags/hong_kong.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/hungary.png",
+      "PackagePath": "staticwebassets/lib/images/flags/hungary.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/iceland.png",
+      "PackagePath": "staticwebassets/lib/images/flags/iceland.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/india.png",
+      "PackagePath": "staticwebassets/lib/images/flags/india.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/indonesia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/indonesia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/iran.png",
+      "PackagePath": "staticwebassets/lib/images/flags/iran.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/iraq.png",
+      "PackagePath": "staticwebassets/lib/images/flags/iraq.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/ireland.png",
+      "PackagePath": "staticwebassets/lib/images/flags/ireland.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/isle_of_man.png",
+      "PackagePath": "staticwebassets/lib/images/flags/isle_of_man.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/israel.png",
+      "PackagePath": "staticwebassets/lib/images/flags/israel.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/italy.png",
+      "PackagePath": "staticwebassets/lib/images/flags/italy.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/ivory_coast.png",
+      "PackagePath": "staticwebassets/lib/images/flags/ivory_coast.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/jamaica.png",
+      "PackagePath": "staticwebassets/lib/images/flags/jamaica.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/japan.png",
+      "PackagePath": "staticwebassets/lib/images/flags/japan.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/jersey.png",
+      "PackagePath": "staticwebassets/lib/images/flags/jersey.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/jordan.png",
+      "PackagePath": "staticwebassets/lib/images/flags/jordan.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/kazakhstan.png",
+      "PackagePath": "staticwebassets/lib/images/flags/kazakhstan.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/kenya.png",
+      "PackagePath": "staticwebassets/lib/images/flags/kenya.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/kiribati.png",
+      "PackagePath": "staticwebassets/lib/images/flags/kiribati.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/kosovo.png",
+      "PackagePath": "staticwebassets/lib/images/flags/kosovo.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/kuwait.png",
+      "PackagePath": "staticwebassets/lib/images/flags/kuwait.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/kyrgyztan.png",
+      "PackagePath": "staticwebassets/lib/images/flags/kyrgyztan.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/laos.png",
+      "PackagePath": "staticwebassets/lib/images/flags/laos.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/latvia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/latvia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/lebanon.png",
+      "PackagePath": "staticwebassets/lib/images/flags/lebanon.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/lesotho.png",
+      "PackagePath": "staticwebassets/lib/images/flags/lesotho.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/liberia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/liberia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/libya.png",
+      "PackagePath": "staticwebassets/lib/images/flags/libya.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/liechtenstein.png",
+      "PackagePath": "staticwebassets/lib/images/flags/liechtenstein.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/lithuania.png",
+      "PackagePath": "staticwebassets/lib/images/flags/lithuania.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/luxembourg.png",
+      "PackagePath": "staticwebassets/lib/images/flags/luxembourg.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/macau.png",
+      "PackagePath": "staticwebassets/lib/images/flags/macau.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/macedonia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/macedonia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/madagascar.png",
+      "PackagePath": "staticwebassets/lib/images/flags/madagascar.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/malawi.png",
+      "PackagePath": "staticwebassets/lib/images/flags/malawi.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/malaysia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/malaysia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/maldives.png",
+      "PackagePath": "staticwebassets/lib/images/flags/maldives.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/mali.png",
+      "PackagePath": "staticwebassets/lib/images/flags/mali.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/malta.png",
+      "PackagePath": "staticwebassets/lib/images/flags/malta.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/marocko.png",
+      "PackagePath": "staticwebassets/lib/images/flags/marocko.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/marshall_islands.png",
+      "PackagePath": "staticwebassets/lib/images/flags/marshall_islands.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/martinique.png",
+      "PackagePath": "staticwebassets/lib/images/flags/martinique.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/mauritania.png",
+      "PackagePath": "staticwebassets/lib/images/flags/mauritania.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/mauritius.png",
+      "PackagePath": "staticwebassets/lib/images/flags/mauritius.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/mexico.png",
+      "PackagePath": "staticwebassets/lib/images/flags/mexico.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/moldavia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/moldavia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/monaco.png",
+      "PackagePath": "staticwebassets/lib/images/flags/monaco.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/mongolia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/mongolia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/montenegro.png",
+      "PackagePath": "staticwebassets/lib/images/flags/montenegro.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/mozambique.png",
+      "PackagePath": "staticwebassets/lib/images/flags/mozambique.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/myanmar.png",
+      "PackagePath": "staticwebassets/lib/images/flags/myanmar.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/namibia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/namibia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/nauru.png",
+      "PackagePath": "staticwebassets/lib/images/flags/nauru.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/nepal.png",
+      "PackagePath": "staticwebassets/lib/images/flags/nepal.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/netherlands.png",
+      "PackagePath": "staticwebassets/lib/images/flags/netherlands.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/new_zeeland.png",
+      "PackagePath": "staticwebassets/lib/images/flags/new_zeeland.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/nicaragua.png",
+      "PackagePath": "staticwebassets/lib/images/flags/nicaragua.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/niger.png",
+      "PackagePath": "staticwebassets/lib/images/flags/niger.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/nigeria.png",
+      "PackagePath": "staticwebassets/lib/images/flags/nigeria.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/norfolk_island.png",
+      "PackagePath": "staticwebassets/lib/images/flags/norfolk_island.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/north_korea.png",
+      "PackagePath": "staticwebassets/lib/images/flags/north_korea.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/northern_ireland.png",
+      "PackagePath": "staticwebassets/lib/images/flags/northern_ireland.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/norway.png",
+      "PackagePath": "staticwebassets/lib/images/flags/norway.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/oman.png",
+      "PackagePath": "staticwebassets/lib/images/flags/oman.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/pakistan.png",
+      "PackagePath": "staticwebassets/lib/images/flags/pakistan.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/palau.png",
+      "PackagePath": "staticwebassets/lib/images/flags/palau.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/palestine.png",
+      "PackagePath": "staticwebassets/lib/images/flags/palestine.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/panama.png",
+      "PackagePath": "staticwebassets/lib/images/flags/panama.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/papua_new_guinea.png",
+      "PackagePath": "staticwebassets/lib/images/flags/papua_new_guinea.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/paraguay.png",
+      "PackagePath": "staticwebassets/lib/images/flags/paraguay.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/peru.png",
+      "PackagePath": "staticwebassets/lib/images/flags/peru.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/philippines.png",
+      "PackagePath": "staticwebassets/lib/images/flags/philippines.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/poland.png",
+      "PackagePath": "staticwebassets/lib/images/flags/poland.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/portugal.png",
+      "PackagePath": "staticwebassets/lib/images/flags/portugal.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/puerto_rico.png",
+      "PackagePath": "staticwebassets/lib/images/flags/puerto_rico.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/qatar.png",
+      "PackagePath": "staticwebassets/lib/images/flags/qatar.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/republic_of_the_congo.png",
+      "PackagePath": "staticwebassets/lib/images/flags/republic_of_the_congo.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/romania.png",
+      "PackagePath": "staticwebassets/lib/images/flags/romania.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/russia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/russia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/rwanda.png",
+      "PackagePath": "staticwebassets/lib/images/flags/rwanda.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/saint_lucia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/saint_lucia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/saint_maarten.png",
+      "PackagePath": "staticwebassets/lib/images/flags/saint_maarten.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/san_marino.png",
+      "PackagePath": "staticwebassets/lib/images/flags/san_marino.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/saudi_arabia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/saudi_arabia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/scotland.png",
+      "PackagePath": "staticwebassets/lib/images/flags/scotland.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/senegal.png",
+      "PackagePath": "staticwebassets/lib/images/flags/senegal.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/serbia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/serbia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/seychelles.png",
+      "PackagePath": "staticwebassets/lib/images/flags/seychelles.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/sierra_leone.png",
+      "PackagePath": "staticwebassets/lib/images/flags/sierra_leone.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/singapore.png",
+      "PackagePath": "staticwebassets/lib/images/flags/singapore.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/slovakia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/slovakia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/slovenia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/slovenia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/somalia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/somalia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/south_africa.png",
+      "PackagePath": "staticwebassets/lib/images/flags/south_africa.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/south_korea.png",
+      "PackagePath": "staticwebassets/lib/images/flags/south_korea.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/south_sudan.png",
+      "PackagePath": "staticwebassets/lib/images/flags/south_sudan.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/spain.png",
+      "PackagePath": "staticwebassets/lib/images/flags/spain.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/sri_lanka.png",
+      "PackagePath": "staticwebassets/lib/images/flags/sri_lanka.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/sudan.png",
+      "PackagePath": "staticwebassets/lib/images/flags/sudan.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/suriname.png",
+      "PackagePath": "staticwebassets/lib/images/flags/suriname.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/sweden.png",
+      "PackagePath": "staticwebassets/lib/images/flags/sweden.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/switzerland.png",
+      "PackagePath": "staticwebassets/lib/images/flags/switzerland.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/syria.png",
+      "PackagePath": "staticwebassets/lib/images/flags/syria.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/taiwan.png",
+      "PackagePath": "staticwebassets/lib/images/flags/taiwan.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/tajikistan.png",
+      "PackagePath": "staticwebassets/lib/images/flags/tajikistan.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/tanzania.png",
+      "PackagePath": "staticwebassets/lib/images/flags/tanzania.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/thailand.png",
+      "PackagePath": "staticwebassets/lib/images/flags/thailand.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/togo.png",
+      "PackagePath": "staticwebassets/lib/images/flags/togo.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/tonga.png",
+      "PackagePath": "staticwebassets/lib/images/flags/tonga.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/trinidad_and_tobago.png",
+      "PackagePath": "staticwebassets/lib/images/flags/trinidad_and_tobago.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/tunisia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/tunisia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/turkey.png",
+      "PackagePath": "staticwebassets/lib/images/flags/turkey.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/turkmenistan.png",
+      "PackagePath": "staticwebassets/lib/images/flags/turkmenistan.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/uganda.png",
+      "PackagePath": "staticwebassets/lib/images/flags/uganda.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/ukraine.png",
+      "PackagePath": "staticwebassets/lib/images/flags/ukraine.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/united_arab_emirates.png",
+      "PackagePath": "staticwebassets/lib/images/flags/united_arab_emirates.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/united_states.png",
+      "PackagePath": "staticwebassets/lib/images/flags/united_states.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/uruguay.png",
+      "PackagePath": "staticwebassets/lib/images/flags/uruguay.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/uzbekistan.png",
+      "PackagePath": "staticwebassets/lib/images/flags/uzbekistan.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/vanuatu.png",
+      "PackagePath": "staticwebassets/lib/images/flags/vanuatu.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/vatican_city.png",
+      "PackagePath": "staticwebassets/lib/images/flags/vatican_city.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/venezuela.png",
+      "PackagePath": "staticwebassets/lib/images/flags/venezuela.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/vietnam.png",
+      "PackagePath": "staticwebassets/lib/images/flags/vietnam.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/wales.png",
+      "PackagePath": "staticwebassets/lib/images/flags/wales.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/yemen.png",
+      "PackagePath": "staticwebassets/lib/images/flags/yemen.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/zambia.png",
+      "PackagePath": "staticwebassets/lib/images/flags/zambia.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/images/flags/zimbabwe.png",
+      "PackagePath": "staticwebassets/lib/images/flags/zimbabwe.png"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/casperfinckelsen/Desktop/flagga/FlagGame/FlagGame/FlagGame/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.FlagGame.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.FlagGame.props",
+      "PackagePath": "build\\FlagGame.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.FlagGame.props",
+      "PackagePath": "buildMultiTargeting\\FlagGame.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.FlagGame.props",
+      "PackagePath": "buildTransitive\\FlagGame.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

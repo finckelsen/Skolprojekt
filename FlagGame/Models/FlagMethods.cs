@@ -11,7 +11,18 @@ namespace FlagGame.Models
         public List<FlagDetails> SelectFlags(int difficulty, out string errormsg)
         {
             SqlConnection dbConnection = new SqlConnection();
-            dbConnection.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=FlagGame;Integrated Security=True";
+            var os = Environment.OSVersion;
+            var temp = os.Platform.ToString();
+
+            if (temp == "Unix")
+            {
+                dbConnection.ConnectionString = "Data Source=localhost,1433;Database=FlagGame;User Id=sa;Password=NoccoFocus1";
+            }
+
+            else
+            {
+                dbConnection.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=FlagGame;Integrated Security=True";
+            }
 
             string sqlString = $"SELECT * FROM Table_Flags WHERE Flag_Difficulty = {difficulty}";
             //string sqlString = $"SELECT * FROM Table_Flags";
